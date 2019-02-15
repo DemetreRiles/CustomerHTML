@@ -1,0 +1,17 @@
+form {
+  text-align: center;
+  font-family: monospace;
+}
+
+body {
+  background-color: royalblue;
+  font-size: 160%;
+
+}
+
+h1 {
+  text-align:center;
+  border: 5px solid black;
+  background-color: cornflowerblue;
+  font-family: sans-serif;
+}
